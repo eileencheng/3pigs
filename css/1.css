@@ -1,0 +1,58 @@
+#banner{
+  background: url('../images/banner/big_dessert.jpg') no-repeat;
+  width: 100%;
+  height: 400px;
+  background-position: center top;
+
+}
+header{
+  overflow: hidden;
+  background: #daf5c6;
+}
+
+.fa-envelope-o{
+  color: #3f880a;
+}
+#logo {
+  background: url('../images/logo/logo-2.png') no-repeat;
+  width: 200px;
+  height: 200px;
+  float: left;
+
+}
+nav>ol>li{
+  width: 80px;
+  height: 40px;
+  float: left;
+  font-size: 16px;
+  font-family: "微軟正黑體";
+}
+#document{
+  max-width: 1000px;
+  margin: auto;
+}
+nav{
+  float: right;
+  margin-top: 100px;
+}
+.left{
+  width: 298px;
+  float: left;
+  margin: auto;
+  text-align: center;
+  border: 1px double;
+}
+.right{
+  width: 650px;
+  float: left;
+  padding-left: 10px;
+}
+#content{
+  overflow: hidden;
+  padding: 20px;
+}
+footer{
+  line-height: 30px;
+  text-align: center;
+  background: #aad1f5;
+}
